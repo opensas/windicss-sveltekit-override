@@ -59,3 +59,21 @@ in src/index.svelte
 ```
 
 playground: https://windicss.org/play.html?html=DwCwjABAxgNghgZwQXgEQCMDmBaATgUwBNsAmABjIi20wPwDtsBmC1APggHV8YoB7ALb4IAFz4QAygDceI-AGkAliOAB6cGwBQm4AAc2ANUUJlEYHAggCAMzQgRI3QgBcq1QGtlAOgQyYcr0J8KXZPER8-AKCpNTgOMQgCOEJREGFCPigAVyF6ETgRRT56NX1tIA&css=HQIw9gHgBA3gUFKABAhgBzQGwJ4MVNbAWgA4CJSoBLAO01oFMiAzTB6AWwpQFcAXMHkQgA5kQDuACyp8GUACYoATgGsAXKKIilKYgBYADAYXL1msGhQBjGcQCMBoVCVgeNeQ3lEImKAGdJFHkwcSIOeX9LKyZiACYAbjgAXzhQPhpYPFQMHCc0Cj0CeyhZCD4iPw4S9nK0HiUsJgA2IyhmMBpyvwYOKnBMeScXNw8vZh5MX3AlDyUoadmiOoa2IljWxVUNMBmGJSX6xtIjJ0kwADc9tVLyqRk5M8ulDTFlo5bjR6uFvaI%2BHRofksSgYnSc7SsPD8alcfHoNCYNA6cghULUSloYlizkxBxWzVaGJoYgs1lsREMiRSQA
+
+
+github repo: https://github.com/opensas/windicss-sveltekit-override
+
+to reproduce:
+
+open https://gitpod.io#github.com/opensas/windicss-sveltekit-override
+
+```shell
+npm install
+npm run dev
+```
+click on http://localhost:3000
+
+
+result: 
+
+
